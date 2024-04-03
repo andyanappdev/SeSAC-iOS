@@ -4,3 +4,6 @@
 [submodule "Projects/Juice-Maker-iOS"]
 	path = Projects/Juice-Maker-iOS
 	url = git@github.com:andyanappdev/Juice-Maker-iOS.git
+[submodule "Projects/Contact-Manager-iOS"]
+	path = Projects/Contact-Manager-iOS
+	url = git@github.com:andyanappdev/Contact-Manager-iOS.git
