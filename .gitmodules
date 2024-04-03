@@ -10,3 +10,6 @@
 [submodule "Projects/Bank-Manager-iOS"]
 	path = Projects/Bank-Manager-iOS
 	url = git@github.com:andyanappdev/Bank-Manager-iOS.git
+[submodule "Projects/Movie-Box-Office-iOS"]
+	path = Projects/Movie-Box-Office-iOS
+	url = git@github.com:andyanappdev/Movie-Box-Office-iOS.git
