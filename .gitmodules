@@ -7,3 +7,6 @@
 [submodule "Projects/Contact-Manager-iOS"]
 	path = Projects/Contact-Manager-iOS
 	url = git@github.com:andyanappdev/Contact-Manager-iOS.git
+[submodule "Projects/Bank-Manager-iOS"]
+	path = Projects/Bank-Manager-iOS
+	url = git@github.com:andyanappdev/Bank-Manager-iOS.git
