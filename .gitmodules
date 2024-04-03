@@ -13,3 +13,6 @@
 [submodule "Projects/Movie-Box-Office-iOS"]
 	path = Projects/Movie-Box-Office-iOS
 	url = git@github.com:andyanappdev/Movie-Box-Office-iOS.git
+[submodule "Projects/Chat-Bot-iOS"]
+	path = Projects/Chat-Bot-iOS
+	url = git@github.com:andyanappdev/Chat-Bot-iOS.git
