@@ -1,3 +1,6 @@
 [submodule "Projects/RPS-Game-iOS"]
 	path = Projects/RPS-Game-iOS
 	url = git@github.com:andyanappdev/RPS-Game-iOS.git
+[submodule "Projects/Juice-Maker-iOS"]
+	path = Projects/Juice-Maker-iOS
+	url = git@github.com:andyanappdev/Juice-Maker-iOS.git
