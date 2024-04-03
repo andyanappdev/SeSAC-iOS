@@ -1,0 +1,3 @@
+[submodule "Projects/RPS-Game-iOS"]
+	path = Projects/RPS-Game-iOS
+	url = git@github.com:andyanappdev/RPS-Game-iOS.git
